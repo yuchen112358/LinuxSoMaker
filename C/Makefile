@@ -10,7 +10,7 @@
 #****************************************************************************/
 
 SHELL = /bin/sh
-APP_DIR = /home/yuchen/C++/LinuxSoMaker/C
+APP_DIR = /home/xxx/C++/LinuxSoMaker/C
 LIB_DIR = ${APP_DIR}/lib/
 BIN_DIR = ${APP_DIR}/bin/
 OBJECT_DIR = ${APP_DIR}/obj/
